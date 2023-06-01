@@ -2,7 +2,7 @@ name: sopt-seminar-ci-cd # 원하는 이름으로!
 
 on:
   push:
-    branched:
+    branches:
       - main # action 트리거 브랜치
 
 jobs:
