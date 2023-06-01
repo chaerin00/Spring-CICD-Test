@@ -1,8 +1,8 @@
-name: sopt-seminar-ci # 원하는 이름으로!
+name: CI # 원하는 이름으로!
 
 on:
   pull_request:
-    branched:
+    branches:
       - main # action 트리거 브랜치
 
 jobs:

@@ -1,4 +1,4 @@
-name: sopt-seminar-ci-cd # 원하는 이름으로!
+name: Deploy # 원하는 이름으로!
 
 on:
   push:
