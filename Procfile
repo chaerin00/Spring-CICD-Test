@@ -1,0 +1,1 @@
+web: java -jar basic-study-prod-ebextensions-1.jar
